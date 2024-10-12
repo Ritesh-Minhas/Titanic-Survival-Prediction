@@ -7,14 +7,16 @@
       <LI>Preprocessing</LI>
       <LI>Simple Impute</LI>
       <LI>Cross Validation Score</LI>
+      <LI>Stratified KFold</LI>
     </UL>
   <LI>Models used to fit the split data(X and y) to perform prediction were:</LI>
     <UL>
       <LI>Random Forest Classifier</LI>
-      <LI>Decison Tree</LI>
-      <LI>K-Nearest Neigbors</LI>
+      <LI>Decision Tree</LI>
+      <LI>K-Nearest Neighbors</LI>
       <LI>Support Vector Machine</LI>
       <LI>Logistic Regression</LI>
       <LI>Naive Bayes</LI>
     </UL>
+  <LI>Used matplotlib.pyplot and seaborn to visualize various comparison on the dataset.</LI>
 </UL>
