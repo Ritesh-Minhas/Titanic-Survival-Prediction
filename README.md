@@ -2,7 +2,7 @@
 <UL>
   <LI>Performed Data Analysis and Data Cleaning techniques on the Passengers Dataset.</LI>
   <LI>Created Insights to figure out the instances dependent on the survival of the Passengers.</LI>
-  <LI>Used scikit-learn(sklearn) libray of Python to perform various techniques such as: </LI>
+  <LI>Used scikit-learn(sklearn) library of Python to perform various techniques such as: </LI>
     <UL>
       <LI>Preprocessing</LI>
       <LI>Simple Impute</LI>
