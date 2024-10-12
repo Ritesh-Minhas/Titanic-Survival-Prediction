@@ -9,7 +9,8 @@
       <LI>Cross Validation Score</LI>
       <LI>Stratified KFold</LI>
     </UL>
-  <LI>Models used to fit the split data(X and y) to perform prediction were:</LI>
+  <LI>Designed pipelines to fit the split data(X_train, y_train) into the Machine Learning models.</LI>
+  <LI>Models used to fit the split data to perform prediction were:</LI>
     <UL>
       <LI>Random Forest Classifier</LI>
       <LI>Decision Tree</LI>
